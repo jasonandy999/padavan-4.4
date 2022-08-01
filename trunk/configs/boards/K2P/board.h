@@ -1,11 +1,11 @@
 /* K2P */
 
-#define BOARD_PID		"K2P"
-#define BOARD_NAME		"K2P"
-#define BOARD_DESC		"PHICOMM K2P Wireless Router"
-#define BOARD_VENDOR_NAME	"PHICOMM"
-#define BOARD_VENDOR_URL	"http://www.phicomm.com/"
-#define BOARD_MODEL_URL		"http://www.phicomm.com/"
+#define BOARD_PID		"Lisa"
+#define BOARD_NAME		"Lisa"
+#define BOARD_DESC		"ruckus Lisa Wireless Router"
+#define BOARD_VENDOR_NAME	"ruckus"
+#define BOARD_VENDOR_URL	"https://zh.commscope.com/"
+#define BOARD_MODEL_URL		"https://zh.commscope.com/"
 #define BOARD_BOOT_TIME		30
 #define BOARD_FLASH_TIME	120
 
